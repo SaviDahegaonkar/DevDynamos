@@ -1,7 +1,6 @@
 # DevDynamos
 GeoAI Reimagined: Transformative and Diverse Earth Science Applications Using Foundation Models.
 
-
 # GeoAI Reimagined
 
 The project "GeoAI Reimagined" focuses on leveraging foundation models to revolutionize Earth science applications with diversity and transformation at its core. We developed a sophisticated AI system capable of processing vast geospatial data sets to extract meaningful insights and drive diverse applications in the field of Earth science.
@@ -60,5 +59,14 @@ We aim to demonstrate the transformative potential of cutting-edge technology in
 Yes, we utilized various AI tools and software, including foundation models, to process and analyze geospatial data, enabling accurate insights for Earth science applications.
 
 Overall, "GeoAI Reimagined" represents a significant leap in Earth science applications, demonstrating the potential of inclusive and transformative AI-driven solutions for the betterment of our planet and its diverse ecosystems.
+
+
+
+### Link For Our Final Project
+
+https://drive.google.com/drive/folders/1wc47H7u3NSZgp7JRPZsoT9oRMZAtaen_
+
+
+
 
 
